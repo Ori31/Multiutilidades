@@ -27,5 +27,7 @@ public class Ordenar {
             System.out.print(integer + " ");
         }
 
+        input.close();
+
     }
 }
